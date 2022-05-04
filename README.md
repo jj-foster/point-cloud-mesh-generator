@@ -1,4 +1,4 @@
-# CAD_mesh_generator
+# Point Cloud Mesh Generator
 A custom GUI allows for mesh generation from CAD mesh exports (.obj, .stl) using open3d
 
 
